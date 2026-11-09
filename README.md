@@ -6,7 +6,7 @@ Docente: Ernesto Ledesma · Estudiante: Pavan Iara
 # 📌 Enlaces del Proyecto
 
 •	💻 Repositorio de GitHub: https://github.com/iarapavan05-art/Portfolio.git
-
+•	🌐 Sitio web desplegado: https://portfolio-iarapavan.netlify.app/
 
 # 🎨 Concepto visual
 Tres palabras clave definen la marca personal: claro, confiable, preciso.
