@@ -16,6 +16,21 @@ Tres palabras clave definen la marca personal: claro, confiable, preciso.
 #Palabra: Confiable, #Color: Azul marino #0C2340como base, #Tipografía: Pesos Negrita para títulos y Regular para el texto	#Imágenes: Capturas reales de mis proyectos.
 #Palabra: Preciso, #Color: beige #E8DCC8en modo oscuro, 	#Tipografía: Escala fija y espacial en múltiplos de 8,	#Imágenes: Alineadas a una parrilla y optimizadas
 
+# 🎯 Resumen
+Sitio web one-page maquetado de forma estática con HTML5 semántico , CSS3 (Grid, Flexbox, variables) y JavaScript vanilla , sin frameworks.
+•	Mobile-first: diseñado para 375 px y escalado a 768 px y 1280 px.
+•	Accesibilidad (WCAG 2.2 AA): navegación por teclado con foco visible, enlace "Saltar al contenido", aria-expandedy aria-controlsen el menú, y soporte para prefers-reduced-motion.
+•	Modo claro y oscuro: respeta la preferencia del sistema ( prefers-color-scheme) y permite cambiarla con un botón; la elección se guarda en localStorage.
+•	Sin dependencias pesadas: ningún framework JS.
+
+# 🔍 Investigación y proceso UX
+Perfil de usuario: Martina, 24 años: Estudiante avanzada de Diseño y Comunicación Visual. Busca portfolios para conocer estilos, habilidades y trabajos de distintos diseñadores. Valora los sitios fáciles de recorrer y con información bien presentada.
+Las 3 preguntas de investigación:
+1. ¿Qué información espera encontrar al ingresar
+2. ¿Qué hace que un sitio sea atractivo y sencillo?
+3. ¿Qué puede generar confusión o abandono?
+
+
 # 📬 Contacto
 Pavan Iara: Estudiante de Lic. en Sistemas de Información (UADER · FCyT) · Concepción del Uruguay, Entre Ríos, Argentina.
 
