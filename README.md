@@ -30,14 +30,11 @@ Las 3 preguntas de investigación:
 2. ¿Qué hace que un sitio sea atractivo y sencillo?
 3. ¿Qué puede generar confusión o abandono?
 
-![Referencia de 3 carteras:](<Captura de pantalla 2026-11-09 152806.png>)
-
-
-![Arquitectura de información](image-2.png)
- 
-![Componentes](image-3.png)
-
-![Sistema de Diseño](image-4.png)
+| Portfolio | Qué funciona | Qué no funciona | Qué me llevo |
+|---|---|---|---|
+| Ernesto Ledesma | Estructura de 9 secciones, anclas, métricas y resultados medibles | Proyectos sin caso de estudio, links sociales genéricos y sin `og:image` | La arquitectura de información |
+| Valentina | Un caso de estudio por proyecto, testimonios y un CTA claro | Depende de un solo canal de contacto y no tiene línea de tiempo | Caso de estudio por proyecto |
+| Sofia | Skip link, filtros de trabajos y metadatos completos | 18 trabajos y mucho texto repetido; publica teléfono y dirección | Skip link y metadatos completos |
 
 
 # Uso de inteligencia artificial
@@ -46,12 +43,37 @@ Conforme a la política de la cátedra, declaro qué se generó con IA y cómo l
 •	Gemini (Antigravity): navegó en la integración de imágenes en WebP, en la ejecución de la auditoría Lighthouse y en un primer borrador del README.
 •	Mi autoría y revisión: definí el concepto (palabras clave, moodboard, paleta azul y beige, Montserrat), elegí los referentes, ajusté el contenido y los textos a mi experiencia, hice el test de usabilidad con 3 personas, apliqué sus hallazgos, hice los commits y desplegué el sitio. Revise y probé en el navegador todo lo generado antes de publicarlo.
 
-![Test de usabilidad (3 participantes, sobre el prototipo de Figma):](image-5.png)
+## 💼 Proyectos y casos de estudio
 
+| Proyecto | Tipo | Stack | Enlace / Repositorio |
+|---|---|---|---|
+| **Este portfolio** | Proyecto final integrador | Figma · HTML5 · CSS3 · JS vanilla | [Repositorio](https://github.com/iarapavan05-art/Portfolio.git)|
+| **Cubrí Seguros** | Caso de estudio UX/UI | Checkout en pasos · Tailwind v4 · Basecoat UI | [Ver sitio](https://segurida-pavan-iara.netlify.app/) · Modal en el sitio |
+| **Coffea** | Landing page de cafetería | Figma a código · HTML5 · CSS3 | [Ver sitio](https://coffee-pavan-iara.netlify.app/) · Modal en el sitio |
 
-# 📊 Auditoría de rendimiento (Faro, móvil)
-![alt text](image.png)
-![alt text](<Captura de pantalla 2026-11-09 151534.png>)
+**Test de usabilidad (3 participantes, sobre el prototipo de Figma):**
+
+Comentarios
+Lucía: «Me gusta que esté todo ordenado y pueda ver los proyectos sin buscar demasiado».
+Mateo: «El diseño es limpio y profesional; me gusta la combinación de colores y las tarjetas». 
+Sofía: «La estética me gusta; agregaría un acceso más visible para llegar al contacto».
+
+| Métrica | Puntaje | Requisito | 
+|---|:---:|:---:|:---:|
+| ⚡ Performance | **99 / 100** | ≥ 90 | 
+| ♿ Accessibility | **96 / 100** | ≥ 90 | 
+| 🛡️ Best Practices | **100 / 100** | ≥ 90 | 
+| 🔍 SEO | **100 / 100** | ≥ 90 | 
+
+## 🚀 Despliegue continuo (CI/CD)
+
+Desplegado en **Netlify** desde el repositorio de GitHub:
+
+1. Repositorio vinculado a la rama `main`.
+2. Despliegue automático en cada `push`.
+3. Configuración: *Build command:* ninguno (sitio estático) · *Publish directory:* `.` (raíz).
+4. Página 404 personalizada en [`404.html`](404.html).
+
 
 
 # 📬 Contacto
@@ -60,6 +82,4 @@ Pavan Iara: Estudiante de Lic. en Sistemas de Información (UADER · FCyT) · Co
 •	✉️ iarapavan05@gmail.com
 •	💼 https://www.linkedin.com/mynetwork/invite-connect/connections/
 •	🐙 https://github.com/iarapavan05-art/Portfolio.git  
-
-
 
