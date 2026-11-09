@@ -14,5 +14,12 @@ Tres palabras clave definen la marca personal: claro, confiable, preciso.
 #Palabra: Confiable, #Color: Azul marino #0C2340como base, #Tipografía: Pesos Negrita para títulos y Regular para el texto	#Imágenes: Capturas reales de mis proyectos.
 #Palabra: Preciso, #Color: beige #E8DCC8en modo oscuro, 	#Tipografía: Escala fija y espacial en múltiplos de 8,	#Imágenes: Alineadas a una parrilla y optimizadas
 
+# 📬 Contacto
+Pavan Iara: Estudiante de Lic. en Sistemas de Información (UADER · FCyT) · Concepción del Uruguay, Entre Ríos, Argentina.
+
+•	✉️ iarapavan05@gmail.com
+•	💼 https://www.linkedin.com/mynetwork/invite-connect/connections/
+•	🐙 https://github.com/iarapavan05-art/Portfolio.git  
+
 
 
