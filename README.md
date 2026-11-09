@@ -30,11 +30,28 @@ Las 3 preguntas de investigación:
 2. ¿Qué hace que un sitio sea atractivo y sencillo?
 3. ¿Qué puede generar confusión o abandono?
 
+![Referencia de 3 carteras:](<Captura de pantalla 2026-11-09 152806.png>)
+
+
+![Arquitectura de información](image-2.png)
+ 
+![Componentes](image-3.png)
+
+![Sistema de Diseño](image-4.png)
+
+
 # Uso de inteligencia artificial
 Conforme a la política de la cátedra, declaro qué se generó con IA y cómo lo revisé:
 •	Chat GPT: ampliado en la estructura del archivo de Figma (design system, wireframes y prototipo), en el código base HTML/CSS/JS, en borradores de textos (benchmark, proto-persona y casos de estudio) y en la guía de Git y de entrega.
 •	Gemini (Antigravity): navegó en la integración de imágenes en WebP, en la ejecución de la auditoría Lighthouse y en un primer borrador del README.
 •	Mi autoría y revisión: definí el concepto (palabras clave, moodboard, paleta azul y beige, Montserrat), elegí los referentes, ajusté el contenido y los textos a mi experiencia, hice el test de usabilidad con 3 personas, apliqué sus hallazgos, hice los commits y desplegué el sitio. Revise y probé en el navegador todo lo generado antes de publicarlo.
+
+![Test de usabilidad (3 participantes, sobre el prototipo de Figma):](image-5.png)
+
+
+# 📊 Auditoría de rendimiento (Faro, móvil)
+![alt text](image.png)
+![alt text](<Captura de pantalla 2026-11-09 151534.png>)
 
 
 # 📬 Contacto
