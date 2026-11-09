@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Página no encontrada · Iara Pavan</title>
+  <meta name="description" content="Página no encontrada en el portfolio de Iara Pavan.">
+  <meta name="theme-color" content="#0c2340">
+  <link rel="icon"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230c2340'/%3E%3Ctext x='16' y='22' font-size='16' font-family='sans-serif' font-weight='700' text-anchor='middle' fill='%23e8dcc8'%3EDM%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,700;0,800;1,400;1,600&display=swap"
+    rel="stylesheet">
+  <script>
+    (function () {
+      var t;
+      try { t = localStorage.getItem('theme'); } catch (e) { }
+      if (!t) t = matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+      document.documentElement.dataset.theme = t;
+    })();
+  </script>
+  <link rel="stylesheet" href="/styles.css">
+  <style>
+    .not-found {
+      min-height: 80vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: var(--s8) var(--s2);
+    }
+
+    .not-found .error-code {
+      font-size: clamp(4rem, 15vw, 8rem);
+      font-weight: 800;
+      line-height: 1;
+      color: var(--secondary);
+      margin-bottom: var(--s2);
+    }
+
+    .not-found p {
+      max-width: 48ch;
+      margin-bottom: var(--s4);
+      color: var(--muted);
+      font-size: 1.125rem;
+    }
+  </style>
+</head>
+
+<body>
+  <a class="skip" href="#main">Saltar al contenido</a>
+
+  <header class="site-header">
+    <div class="container bar">
+      <a href="/" class="logo" aria-label="Iara Pavan, inicio">IP</a>
+      <a class="btn btn-primary" href="/">Volver al portfolio</a>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="container not-found">
+      <span class="error-code">404</span>
+      <h1>Esta página no existe</h1>
+      <p>El enlace que seguiste no está disponible o la dirección cambió. Podés regresar a la página principal para ver
+        mis proyectos y experiencia.</p>
+      <div class="actions">
+        <a class="btn btn-primary" href="/">Ir al inicio</a>
+        <a class="btn btn-secondary" href="/#projects">Ver proyectos</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container foot">
+      <p>© 2026 Iara Pavan. Hecho con HTML, CSS y JS vanilla.</p>
+    </div>
+  </footer>
+</body>
+
+</html>
